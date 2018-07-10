@@ -19,7 +19,9 @@ def dinner(meal="salmon")
 end
 
 
-
+breakfast
+lunch 
+dinner
 
 
 
